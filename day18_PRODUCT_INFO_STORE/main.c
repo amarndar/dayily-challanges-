@@ -1,3 +1,6 @@
+
+//ROLL NO:AP25110090187 ,NAME: M.AMARENDAR REDDY //
+
 #include<stdio.h>
 int main(){
 
