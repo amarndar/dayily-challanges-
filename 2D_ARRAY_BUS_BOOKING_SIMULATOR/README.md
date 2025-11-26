@@ -1,4 +1,4 @@
-__________________________________ALGORITHM________________________________________________________
+__________________________________ALGORITHM _____________________________________________________
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 first creat a function for displaying seats lay out.
 with abc for coloums and 12345 for rows and pre register the seats for a better understanding,
